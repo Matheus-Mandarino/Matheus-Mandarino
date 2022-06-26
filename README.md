@@ -1,4 +1,4 @@
-### Fala ai aqui é o Matheus Mandarino, estudante de programação Front-end!
+### Fala ai aqui é o Matheus Mandarino, estudante de programação FullStack!
 <div align="center">
   <a href="https://github.com/Matheus-Mandarino">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Matheus-Mandarino&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
